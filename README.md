@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎖Creating bugs since 2021<br>🧩I'm currently learning NodeJS<br>🏆Goals: work at a renowned company<br>💥Fun fact: I'm Gamer and Streamer</p>
+<p align="left">🎖Creating bugs since 2021<br>🧩I'm currently learning React<br>🏆Goals: work at a renowned company<br>💥Fun fact: I'm Gamer and Streamer</p>
 
 ###
 

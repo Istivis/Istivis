@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎖Creating bugs since 2021<br>🧩I'm currently learning React<br>🏆Goals: work at a renowned company<br>💥Fun fact: I'm Gamer and Streamer</p>
+<p align="left">🎖Creating bugs since 2021<br>🧩I'm currently learning React<img src="https://cdn.cdnlogo.com/logos/r/85/react.svg" height="10" width"10" alt="react logo" /> <br>🏆Goals: work at a renowned company<br>💥Fun fact: I'm Gamer and Streamer</p>
 
 ###
 

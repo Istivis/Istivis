@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧩I'm currently learning React<img src="https://cdn.cdnlogo.com/logos/r/85/react.svg" height="20" width"20" alt="react logo" /> <br>🏆Goals: work at a renowned company<br>💥Fun fact: I'm Gamer and Streamer</p>
+<p align="left"><br>🏆Goals: work at a renowned company<br>💥Fun fact: I'm Gamer and Streamer</p>
 
 ###
 

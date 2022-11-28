@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"><br>🏆Goals: work at a renowned company<br>💥Fun fact: I'm Gamer and Streamer</p>
+<p align="left"><br>🏆Goals: Be a Best Developer that i know<br>💥Fun fact: I'm Gamer and Streamer (ttv/tstyven)</p>
 
 ###
 

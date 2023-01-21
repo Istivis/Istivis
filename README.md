@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up !?</h1>
+<h1 align="center">Hey 👋 What's up !?</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"><br>🏆Goals: Be a Best Developer that i know<br>💥Fun fact: I'm Gamer and Streamer (ttv/tstyven)</p>
+<p align="left"><br>🏆Goals: Be a Best Developer that i know<br>💥Fun fact: I'm Gamer and Streamer (ttv/IIstivis)</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
@@ -26,9 +26,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
 </div>
 
-###
+## Socials
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/thomas-menezes/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <a href=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
    <a href="https://twitter.com/shukiren"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -37,6 +37,6 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Istivis.Istivis&left_color=black&right_color=darkgoldenrod&left_text=Visitors"  />
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Istivis.Istivis&left_color=black&right_color=darkgoldenrod&left_text=Visitors"  />
 
 ###

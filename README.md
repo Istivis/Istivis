@@ -1,6 +1,13 @@
 <h1 align="left">Hey dear,<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Thomas Styven </h1>
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Istivis.Istivis&left_color=black&right_color=darkgoldenrod&left_text=Visitors"  />
+
 <p align="left">
+<h2>About
+<h4>🖥️ I'm passionate about technology! I had my first contact with information technology in my childhood and seeing how that machine worked enchanted me, I like the opportunity that technology offers people, and the proposal to make human life easier.
+
+I intend to work in the area of ​​software development putting into practice what I acquired in my studies and with the challenges applied to me.
+
+In my studies I remain determined to become a better developer.<h4>
+<h3>
 
 - 🏆 Goals: To be the Best Developer I know
 - 🔥 Web Developer and focused on being the best person
@@ -36,6 +43,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## Socials
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Istivis.Istivis&left_color=black&right_color=darkgoldenrod&left_text=Visitors"  />
 <div align="center">
    <a href="https://twitter.com/shukiren"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
    <a href="https://www.twitch.tv/iistivis"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />

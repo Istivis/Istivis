@@ -23,6 +23,7 @@ In my studies I remain determined to become a better developer.<h4>
 - HTML e CSS
 - JavaScript
 - NextJS
+- Vuejs
 - ReactJS
 - Java
 - Git e Github

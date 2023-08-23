@@ -24,6 +24,8 @@ In my studies I remain determined to become a better developer.<h4>
 - JavaScript
 - NextJS
 - Vuejs
+- Angular
+- Typescript
 - ReactJS
 - Java
 - Git e Github

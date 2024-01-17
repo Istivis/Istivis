@@ -1,13 +1,7 @@
 <h1 align="left">Hey dear,<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Thomas Styven </h1>
 
 <p align="left">
-<h2>About
-<h4>🖥️ I'm passionate about technology! I had my first contact with information technology in my childhood and seeing how that machine worked enchanted me, I like the opportunity that technology offers people, and the proposal to make human life easier.
 
-I intend to work in the area of ​​software development putting into practice what I acquired in my studies and with the challenges applied to me.
-
-In my studies I remain determined to become a better developer.<h4>
-<h3>
 
 - 🏆 Goals: To be the Best Developer I know
 - 🔥 Web Developer and focused on being the best person
@@ -16,21 +10,6 @@ In my studies I remain determined to become a better developer.<h4>
 - 📲 [Contact](https://www.linkedin.com/in/thomas-menezes/) <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="20" alt="linkedin logo"  />
 <!-- 🌱 I’m currently learning...
 !- 👯 I’m looking to collaborate on .. -->
-
-
-<h2 align="left">I code with...</h2>
-
-- HTML e CSS
-- JavaScript
-- NextJS
-- Vuejs
-- Angular
-- Typescript
-- ReactJS
-- Java
-- Git e Github
-- Figma
-- SQL
 
 ## 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
